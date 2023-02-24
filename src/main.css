@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+}
+.input{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #fff;
+    color: blue;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+.span{
+    margin: 1rem;
+    padding: 1rem;
+}
